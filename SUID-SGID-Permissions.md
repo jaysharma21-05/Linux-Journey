@@ -329,6 +329,19 @@ ls -ld /home/project_team
 
 <div align="center">
 
+## 🎥 Video Tutorial
+
+### 🎬 Complete Practical Demo
+
+**📺 Watch the Full Tutorial:**
+
+🔗 **[SUID & SGID File Permissions on YouTube](https://youtu.be/JNb5knHk7Lg?si=glfTtqwO8UotP6Nk)**
+
+📌 Video mein ye saare concepts practical karke dikhaye gaye hain!
+
+<br>
+
+
 ### 📝 Notes
 
 **Last Updated:** January 07, 2026, 7:00 PM IST  
