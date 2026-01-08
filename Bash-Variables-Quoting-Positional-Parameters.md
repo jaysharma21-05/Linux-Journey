@@ -1,5 +1,7 @@
 ## 📝 Bash Variables, Quoting & Positional Parameters
 
+**📹 Video Tutorial:** [Watch on YouTube](https://youtu.be/k5wA0GKMxvs)
+
 Bash mein variables, quoting aur positional parameters ko sahi tarah se use karna professional scripting ka core concept hai. Yeh notes aapke Linux learning journey ka ek solid reference ban sakte hain.
 
 ---
